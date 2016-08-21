@@ -1,2 +1,4 @@
 # hello-world
-first program
+Hi there!
+
+I'm me, myself and I
